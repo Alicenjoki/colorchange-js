@@ -1,0 +1,19 @@
+.change{
+    text-align: center;
+    
+}
+body{
+    background-color: brown;
+    width: 80%;
+    margin: auto;
+    margin-top: 400px;
+
+}
+button{
+    padding: 15px;
+    margin: 30px;
+    color:cornsilk;
+    background-color: black;
+    font-size: 20px;
+    cursor: pointer;
+}
